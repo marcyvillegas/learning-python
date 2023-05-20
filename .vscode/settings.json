@@ -1,0 +1,9 @@
+{
+    "editor.defaultFormatter": null,
+    "editor.formatOnSave": false,  // enable per language
+    "[python]": {
+        "editor.formatOnSave": false,
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.formatting.provider": "autopep8",
+}
