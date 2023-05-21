@@ -15,7 +15,7 @@ x = tuple(y)
 print(x)
 
 # Unpacking a tuple
-# same concept on deconstructuring in javascript but in here, you can rename the variable
+# same concept on deconstructuring in javascript, but in here you can rename the variable
 fruits = ("apple", "banana", "cherry")
 (green, yellow, red) = fruits
 
