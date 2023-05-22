@@ -25,5 +25,9 @@ print('Sentence:', makeSentence(a='Kwargs ',b='are ', c='awesome!'))
 
 # -- Modules -- 
 import module as musicMaker
+# you can also do this:
+# from module import createMusic 
+# orrr
+# from module import *
 
 musicMaker.createMusic("piano", "guitar")
