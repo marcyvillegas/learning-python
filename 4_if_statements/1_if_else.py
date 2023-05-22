@@ -10,6 +10,9 @@ def checkAge(age):
 print(checkAge(22))
 print(checkAge(10))
 
+# Else if -> elif
+# Else only -> else
+
 # -- TERNARY OPERATORS / CONDITIONAL EXPERSSIONS --
 a = 200
 b = 33
